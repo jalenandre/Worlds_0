@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/worlds-or-nothing.html"
+    }
+  ]
+}
